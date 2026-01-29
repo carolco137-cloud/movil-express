@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -82,7 +82,7 @@
             e.preventDefault();
             const n = document.getElementById('n').value;
             const s = document.getElementById('s').value;
-            window.open(`https://wa.me/2203509986?text=Móvil%20Express%0ACliente:%20${n}%0AServicio:%20${s}`);
+            window.open(`https://wa.me/+522203509986?text=Móvil%20Express%0ACliente:%20${n}%0AServicio:%20${s}`);
         };
     </script>
 </body>
